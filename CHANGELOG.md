@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-filament-seo` will be documented in this file.
 
+## 2.2.0 - 2026-03-07
+
+- Feat: Laravel 13 compatibility.
+
 ## 2.1.0 - 2026-01-24
 
 - Feat: Filament V5 support by @agencetwogether
